@@ -1,0 +1,35 @@
+{
+  "urls": {
+    "githubProfile": "https://github.com/s-shemmee",
+    "youtubeProfile": "https://youtube.com/@shemmee",
+    "XProfile": "https://x.com/s_shemmee",
+    "linkedinProfile": "https://linkedin.com/in/shemmee",
+    "dribbbleProfile": "https://dribbble.com/s-shemmee",
+    "email": "shemmee.dev@gmail.com",
+    "portfolioRepository": "https://github.com/s-shemmee/my-portfolio-website",
+    "portfolioUrl": "https://www.shemmee.codes",
+    "projects": [
+      {
+        "title": "ChatNow",
+        "githubLink": "https://github.com/s-shemmee/ChatNow",
+        "demoLink": "https://chat-now-shemmee.vercel.app/"
+      },
+      {
+        "title": "MoviePitch",
+        "githubLink": "https://github.com/s-shemmee/MoviePitch",
+        "demoLink": "https://moviepitch-shemmee.vercel.app/"
+      },
+      {
+        "title": "GhibliGaze",
+        "githubLink": "https://github.com/s-shemmee/GhibliGaze",
+        "demoLink": "https://ghibli-gaze.vercel.app/"
+      },
+      {
+        "title": "Dictionary",
+        "githubLink": "https://github.com/s-shemmee/Dictionary-React-App",
+        "demoLink": "https://dictionary-app-shemmee.vercel.app/"
+      }
+    ],
+    "moreProjects": "https://github.com/s-shemmee?tab=repositories"
+  }
+}
