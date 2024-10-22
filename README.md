@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# SHEMMEE | Front-end Developer Portfolio
 
-## Getting Started
+![Portfolio launch](https://github.com/user-attachments/assets/d8ff5b21-580e-4000-8173-5d416af8a369)
 
-First, run the development server:
+## 🚀 Project Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Welcome to my portfolio! I’m SHEMMEE, a front-end developer passionate about crafting engaging, scalable, and unique web experiences. This site is a showcase of my work, built with the powerful Next.js framework. The portfolio is designed to be fast, accessible, and visually engaging, ensuring an optimal experience across all devices.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🌟 Key Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Responsive Design:** Seamless experience across devices, from desktops to mobile screens.
+- **Contact Form:** Allows visitors to reach out to me directly via email.
+- **Dark/Light Mode Toggle:** Provides a personalized viewing experience.
+- **SEO Optimization**: The website is optimized for search engines with proper meta tags, sitemap, and robots.txt.
+- **Performance Optimization**: Includes preloading of resources, optimized images, and lazy loading to ensure fast performance.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### 🌐 Technologies Used
 
-## Learn More
+- **Frontend:** Next.js, React, TypeScript
+- **Styling:** TailwindCSS, CSS
+- **Animation:** Framer Motion
+- **Email Integration:** Nodemailer
+- **Hosting & Deployment:** Vercel
 
-To learn more about Next.js, take a look at the following resources:
+### 📊 Lighthouse Score
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+My portfolio is built with a focus on speed and performance, achieving an excellent Lighthouse score:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![lighthouse_score](https://github.com/user-attachments/assets/56084429-1a4d-4fd5-83be-a9ef06fa9763)
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🔧 Getting Started
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+To run this project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/s-shemmee/my-portfolio-website.git
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   cd my-portfolio-website
+   yarn install
+   ```
+
+3. **Run the development server:**
+   ```bash
+   yarn dev
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## 📜 License
+
+This project is licensed under the MIT License, meaning you’re free to use, modify, and distribute the code with proper attribution.
