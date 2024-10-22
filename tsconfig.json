@@ -33,7 +33,7 @@
       "@types/*": ["src/types/*"],
       "@api/*": ["src/api/*"],
       "@data/*": ["src/data/*"],
-      "@constants/*": ["src/constants/*"],
+      "@config/*": ["src/config/*"],
       "@images/*": ["src/images/*"],
       "@services/*": ["src/services/*"]
     }
