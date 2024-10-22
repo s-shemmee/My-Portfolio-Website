@@ -1,0 +1,20 @@
+@keyframes scroll {
+  0% {
+    transform: translateY(0);
+  }
+  30% {
+    transform: translateY(100px);
+  }
+}
+
+#wheel {
+  animation: scroll ease 1.5s infinite;
+}
+
+.scroll-container {
+  height: 8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4rem;
+}
