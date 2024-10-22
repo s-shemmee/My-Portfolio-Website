@@ -28,23 +28,25 @@ My portfolio is built with a focus on speed and performance, achieving an excell
 
 ![lighthouse_score](https://github.com/user-attachments/assets/56084429-1a4d-4fd5-83be-a9ef06fa9763)
 
-
 ## 🔧 Getting Started
 
 To run this project locally:
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/s-shemmee/my-portfolio-website.git
    ```
 
 2. **Install dependencies:**
+
    ```bash
    cd my-portfolio-website
    yarn install
    ```
 
 3. **Run the development server:**
+
    ```bash
    yarn dev
    ```
