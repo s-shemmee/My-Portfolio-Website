@@ -8,11 +8,11 @@ Welcome to my portfolio! I’m SHEMMEE, a front-end developer passionate about c
 
 ### 🌟 Key Features
 
-- **Responsive Design:** Seamless experience across devices, from desktops to mobile screens.
-- **Contact Form:** Allows visitors to reach out to me directly via email.
-- **Dark/Light Mode Toggle:** Provides a personalized viewing experience.
-- **SEO Optimization**: The website is optimized for search engines with proper meta tags, sitemap, and robots.txt.
-- **Performance Optimization**: Includes preloading of resources, optimized images, and lazy loading to ensure fast performance.
+- **💻 Responsive Design:** Optimized for seamless viewing across desktops, tablets, and mobile devices.
+- **📧 Contact Form:** Visitors can easily reach out via email, integrated through Nodemailer.
+- **🌗 Dark/Light Mode Toggle:** Users can switch between themes, providing a personalized viewing experience.
+- **🔍 SEO Optimization:** Proper meta tags, sitemap, and robots.txt ensure higher visibility on search engines.
+- **⚡ Performance Optimization:** Preloaded resources, optimized images, and lazy loading ensure fast and smooth performance.
 
 ### 🌐 Technologies Used
 
@@ -24,7 +24,7 @@ Welcome to my portfolio! I’m SHEMMEE, a front-end developer passionate about c
 
 ### 📊 Lighthouse Score
 
-My portfolio is built with a focus on speed and performance, achieving an excellent Lighthouse score:
+Built with a focus on performance, accessibility, best practices, and SEO, achieving an excellent Lighthouse score:
 
 ![lighthouse_score](https://github.com/user-attachments/assets/56084429-1a4d-4fd5-83be-a9ef06fa9763)
 
