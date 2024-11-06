@@ -27,15 +27,9 @@
       "@utils/*": ["src/utils/*"],
       "@styles/*": ["src/styles/*"],
       "@pages/*": ["src/pages/*"],
-      "@layouts/*": ["src/layouts/*"],
-      "@lib/*": ["src/lib/*"],
-      "@context/*": ["src/context/*"],
       "@types/*": ["src/types/*"],
-      "@api/*": ["src/api/*"],
-      "@data/*": ["src/data/*"],
       "@config/*": ["src/config/*"],
-      "@images/*": ["src/images/*"],
-      "@services/*": ["src/services/*"]
+      "@data/*": ["src/data/*"]
     }
   },
   "include": [
