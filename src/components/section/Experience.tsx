@@ -8,7 +8,7 @@ import { Experiences, Technology } from '@/types/types';
 const experiences: Experiences[] = [
   { role: 'Front-end Freelancer', year: '2023' },
   { role: 'Web Developer Intern', year: '2022' },
-  { role: 'Front-end Lead Intern', year: '2021' },
+  { role: 'Lead Front-end Intern', year: '2021' },
 ];
 
 const technologies: Technology[] = [
@@ -27,10 +27,11 @@ const technologies: Technology[] = [
   { name: 'Netlify' },
   { name: 'Vercel' },
   { name: 'Firebase' },
-  { name: 'RESTful API' },
+  { name: 'REST APIs' },
   { name: 'Framer Motion' },
   { name: 'Jest' },
   { name: 'RTL' },
+  { name: 'Cypress' },
 ];
 
 const Experience: React.FC = () => {
