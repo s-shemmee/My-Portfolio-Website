@@ -3,7 +3,7 @@
     "title": "ChatNow",
     "description": "Real-time web chat application powered by Firebase, React, and TypeScript. It provides users with a seamless platform for instant conversations, sharing files, and more.",
     "techStack": ["React", "TypeScript", "Firebase", "SCSS"],
-    "image": "/images/project1.png",
+    "image": "https://placehold.co/500x250/png?text=ChatNow",
     "githubLink": "https://github.com/s-shemmee/ChatNow",
     "demoLink": "https://chat-now-shemmee.vercel.app/"
   },
@@ -11,7 +11,7 @@
     "title": "MoviePitch",
     "description": "Transform one-sentence ideas into full movie concepts with AI. Utilizes OpenAI API, integrating ChatGPT for text generation and DALL-E for image creation.",
     "techStack": ["Vue", "JavaScript", "OpenAI API", "CSS"],
-    "image": "/images/project2.png",
+    "image": "https://placehold.co/500x250/png?text=MoviePitch",
     "githubLink": "https://github.com/s-shemmee/MoviePitch",
     "demoLink": "https://moviepitch-shemmee.vercel.app/"
   },
@@ -19,7 +19,7 @@
     "title": "GhibliGaze",
     "description": "Celebrate Studio Ghibli's iconic films with GhibliGaze. A single-page app featuring movie info, trailers, a gallery, and the latest news—all in one seamless experience.",
     "techStack": ["React", "JavaScript", "YouTube Data API", "TailwindCSS"],
-    "image": "/images/project3.png",
+    "image": "https://placehold.co/500x250/png?text=GhibliGaze",
     "githubLink": "https://github.com/s-shemmee/GhibliGaze",
     "demoLink": "https://ghibli-gaze.vercel.app/"
   },
@@ -27,7 +27,7 @@
     "title": "Dictionary",
     "description": "Explore word definitions, synonyms, antonyms, and examples with ease. This sleek dictionary app is your go-to for quick, seamless vocabulary discovery.",
     "techStack": ["React", "JavaScript", "Dictionary API", "CSS"],
-    "image": "/images/project4.png",
+    "image": "https://placehold.co/500x250/png?text=Dictionary",
     "githubLink": "https://github.com/s-shemmee/Dictionary-React-App",
     "demoLink": "https://dictionary-app-shemmee.vercel.app/"
   }

@@ -4,6 +4,16 @@ import TerserPlugin from 'terser-webpack-plugin';
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'placehold.co',
+        port: '',
+        pathname: '/**',
+      },
+    ],
+  },
   webpack(config, { isServer }) {
     config.module.rules.push({
       test: /\.svg$/i,

@@ -2,7 +2,6 @@
 
 import React, { useRef } from 'react';
 import Image from 'next/image';
-import aboutMeImg from 'public/images/shemmee.jpg';
 import { motion } from 'framer-motion';
 import useInView from '@/hooks/useInView';
 
@@ -84,7 +83,9 @@ const About: React.FC = () => {
               <div className="rounded-lg overflow-hidden">
                 <div className="absolute inset-0 border-2 rounded border-bluebell translate-x-4 translate-y-4 -z-10"></div>
                 <Image
-                  src={aboutMeImg}
+                  src="https://placehold.co/300x300/png"
+                  width={300}
+                  height={300}
                   alt="A photo of Shemmee"
                   className="rounded-lg w-full h-full object-cover"
                 />
