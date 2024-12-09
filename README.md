@@ -30,6 +30,8 @@ Built with a focus on performance, accessibility, best practices, and SEO, achie
 
 ## 🔧 Getting Started
 
+> This repository serves as a template version of my portfolio. Feel free to fork, modify, or customize it to suit your needs.
+
 To run this project locally:
 
 1. **Clone the repository:**
