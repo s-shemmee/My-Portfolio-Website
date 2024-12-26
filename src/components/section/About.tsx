@@ -49,13 +49,9 @@ const About: React.FC = () => {
             custom={1}
           >
             {[
-              'Hello! I\'m Shemmee, a self-taught front-end developer based in Marrakesh, Morocco. My coding journey began out of sheer curiosity. I often found myself inspecting the code behind websites I admired, wondering, "How does this even work?" That curiosity evolved into a passion for HTML and CSS, allowing me to bring ideas to life on the web.',
-              'Over the past two years, I’ve participated in several online coding bootcamps, including ' +
-                "<a class='text-bluebell font-semibold' href='https://www.shecodes.io' target='_blank' rel='noopener noreferrer'>SheCodes</a>" +
-                ' and ' +
-                "<a class='text-bluebell font-semibold' href='https://codedamn.com' target='_blank' rel='noopener noreferrer'>Codedamn</a>" +
-                '. These programs, along with a supportive community, have been instrumental to my growth. I’ve also had the opportunity to contribute to open-source projects and develop personal projects, each one pushing me to refine my skills and explore new technologies.',
-              'Outside of coding, you’ll often find me gaming, reading manga, or giving my cats more attention than they’ll admit they need. Whether working on a project or tackling a new challenge, I’m excited to keep learning and growing in this ever-evolving field.',
+              "Hi, I'm Shemmee, a self-taught front-end developer based in Marrakesh, Morocco, passionate about building user-friendly and visually appealing websites. My coding journey began with a simple question: 'How do websites work?' This curiosity led me to dive into HTML and CSS, and I've been hooked ever since.",
+              "Over the past two years, I've honed my skills through online bootcamps like <a class='text-bluebell font-semibold' href='https://www.shecodes.io' target='_blank' rel='noopener noreferrer'>SheCodes</a> and <a class='text-bluebell font-semibold' href='https://codedamn.com' target='_blank' rel='noopener noreferrer'>Codedamn</a>,  combined with hands-on experience in open-source projects and personal builds. This blend of structured learning and practical application has been invaluable to my growth as a developer.",
+              "Outside of coding, I enjoy gaming, reading manga, and spoiling my cats with more attention than they'll admit they need. I'm always up for new challenges and excited to keep learning in this ever-evolving field.",
             ].map((text, index) => (
               <motion.p
                 key={index}
