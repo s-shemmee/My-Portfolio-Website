@@ -4,7 +4,7 @@
 
 ## 🚀 Project Overview
 
-Welcome to my portfolio! I’m SHEMMEE, a front-end developer passionate about crafting engaging, scalable, and unique web experiences. This site is a showcase of my work, built with the powerful Next.js framework. The portfolio is designed to be fast, accessible, and visually engaging, ensuring an optimal experience across all devices.
+I'm Shemmee, a front-end developer with a passion for building engaging, scalable, and unique web experiences. This portfolio showcases my skills and projects, built with the powerful Next.js framework. It's designed for optimal performance, accessibility, and visual appeal across all devices.
 
 ### 🌟 Key Features
 
