@@ -111,6 +111,7 @@ const Header: React.FC = () => {
                     key={item.name}
                     href={item.url}
                     className="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-gray-900 dark:text-gray-50 hover:bg-gray-400/10"
+                    onClick={() => setMobileMenuOpen(false)}
                   >
                     <span className="text-bluebell">
                       {formatIndex(index + 1)}.{' '}
